@@ -1,2 +1,2 @@
-# portfolio
-um pouco sobre mim e meus projetos
+# Portfolio
+Um pouco sobre mim e meus projetos
